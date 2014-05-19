@@ -70,7 +70,7 @@ header img {
 }
 
 #pictures {
-	padding: 20px 40px ;
+	padding: 20px 0px ;
 	max-width: 900px;
 	background: white;
 }
@@ -132,7 +132,7 @@ footer img {
 	margin: 1em auto; 
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 920px) {
 
 	h1 { font-size: 2.2em;}
 	h2 { font-size: 1.6em;}
@@ -142,4 +142,35 @@ footer img {
 	#pictures {
 		padding: 0;
 	}
+	
+	#pictures {
+	}
+
+	#pictures img {
+		max-width: 100%;
+	}
+
+	#pictures .imgll {
+		max-width: 49.7%;
+	}
+
+	#pictures .imgrr {
+		max-width: 49.7%;
+	}
+
+	#pictures .imgl70 {
+		max-width: 69%;
+	}
+	#pictures .imgr30 {
+		max-width: 30.65%;
+	}
+
+	#pictures .imgr70 {
+		max-width: 69%;
+	}
+	#pictures .imgl30 {
+		max-width: 30.65%;
+	}
+	
+	
 }
