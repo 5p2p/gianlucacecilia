@@ -76,36 +76,45 @@ header img {
 }
 
 #pictures img {
-	max-width:	100%;
+	max-width:	900px;
 	padding: 0.2em 0;
+	display: block;
 }
 
 #pictures .imgll {
-	max-width: 49.7%;
+	max-width: 447px;
 	float:left;
+	display: inline;
 }
 
 #pictures .imgrr {
-	max-width: 49.7%;
+	max-width: 447px;
 	float:right;
+	display: inline;
 }
+
+
 #pictures .imgl70 {
-	max-width: 69%;
+	max-width: 621px;
 	float:left;
+	display: inline;
 }
 #pictures .imgr30 {
-	max-width: 30.65%;
+	max-width: 275px;
 	float:right;
+	display: inline;
 }
 
 
 #pictures .imgr70 {
-	max-width: 69%;
+	max-width: 621px;
 	float:right;
+	display: inline;
 }
 #pictures .imgl30 {
-	max-width: 30.65%;
+	max-width: 275px;
 	float:left;
+	display: inline;
 }
 
 footer {
