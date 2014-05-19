@@ -71,23 +71,41 @@ header img {
 
 #pictures {
 	padding: 20px 40px ;
-	max-width: 920px;
+	max-width: 900px;
 	background: white;
 }
 
 #pictures img {
-	width:	100%;
+	max-width:	100%;
 	padding: 0.2em 0;
 }
 
 #pictures .imgll {
-	width: 49.7%;
+	max-width: 49.7%;
 	float:left;
 }
 
 #pictures .imgrr {
-	width: 49.7%;
+	max-width: 49.7%;
 	float:right;
+}
+#pictures .imgl70 {
+	max-width: 69%;
+	float:left;
+}
+#pictures .imgr30 {
+	max-width: 30.65%;
+	float:right;
+}
+
+
+#pictures .imgr70 {
+	max-width: 69%;
+	float:right;
+}
+#pictures .imgl30 {
+	max-width: 30.65%;
+	float:left;
 }
 
 footer {
