@@ -65,3 +65,10 @@ luogo:
 <img src='img/loader.gif' data-src="img/900/gc-54.jpg" class="imgl30" />
 <img src='img/loader.gif' data-src="img/900/gc-55.jpg" class="imgr70" />
 <img src='img/loader.gif' data-src="img/900/gc-56.jpg" class="" />
+
+
+<br><br>
+
+## [Il Video](https://www.youtube.com/watch?v=Jb1jWKeY8UI)
+
+
